@@ -1,0 +1,11 @@
+/* .row{
+    justify-content: space-around;
+    align-items: center;
+} */
+header{
+    text-align: center;
+    margin: 8% auto;
+}
+.card-img, .card-img-bottom, .card-img-top{
+    width:100px;
+}
